@@ -1,0 +1,27 @@
+.transformation {
+	width: 50vh;
+	
+	.card-img-top {
+		object-fit: cover;
+	}
+}
+
+.column {
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+.transition {
+	transition: .5s all ease-in-out;
+}
+
+.icons {
+
+	align-items: center;
+	height: 50px;
+	width: 50px;
+	margin-top: 150px;
+	justify-content: space-evenly;
+	
+}
